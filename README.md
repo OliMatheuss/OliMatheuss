@@ -23,83 +23,80 @@ Com maturidade, transformei essa curiosidade em um caminho **ético e profission
 
 <div align="center">
 
----
-
-### 🔤 **Linguagens**
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+## 🔤 **Linguagens**
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></a>
 
 ---
 
-### 🎨 **Design / UI & UX**
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+## 🎨 **Design / UI & UX**
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://img.icons8.com/color/512/canva-app.png"/></a>
 
 ---
 
-### 🎯 **Front-end**
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+## 🎯 **Front-end**
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/></a>
 
 ---
 
-### ⚙️ **Back-end (Python)**
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+## ⚙️ **Back-end Python**
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"/></a>
 
 ---
 
-### 🤖 **Automações e Web Scraping**
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+## 🤖 **Automações / Scraping**
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://img.icons8.com/color/512/selenium-test-automation.png"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://img.icons8.com/external-flat-02-chattapat-/344/external-beautiful-soup-python-flat-02-chattapat-.png"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scrapy/scrapy-original.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/></a>
 
 ---
 
-### 🗄️ **Bancos de Dados**
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+## 🗄️ **Bancos de Dados**
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/></a>
 
 ---
 
-### 🐳 **DevOps / Deploy**
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009900?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Railway-0B0B0B?style=for-the-badge&logo=railway&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+## 🐳 **DevOps / Deploy**
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://railway.app/brand/logo-light.png"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://avatars.githubusercontent.com/u/79002356?s=200&v=4"/></a>
 
 ---
 
-### 🌐 **APIs & Ferramentas**
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+## 🌐 **APIs**
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://img.icons8.com/dusk/512/postman-api.png"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://insomnia.rest/images/insomnia-logo.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-x1nnh4s2.png"/></a>
 
 ---
 
-### 🛠️ **Outras ferramentas**
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/npm-CB0000?style=for-the-badge&logo=npm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+## 🛠️ **Outras ferramentas**
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/></a>
+<a href="#"><img style="border-radius:50%; margin:5px" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"/></a>
 
 </div>
 
