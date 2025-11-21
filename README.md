@@ -23,31 +23,30 @@ Com maturidade, transformei essa curiosidade em um caminho **ético e profission
 
 <div align="center">
 
-## 🔤 **Linguagens**
+## 🔤 Linguagens
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
 ---
 
-## 🎨 **Design / UI & UX**
+## 🎨 Design / UI & UX
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-<img width="60" src="https://img.icons8.com/color/512/canva.png"/>
 
 ---
 
-## 🎯 **Front-end**
+## 🎯 Front-end
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
 
 ---
 
-## ⚙️ **Back-end (Python)**
+## ⚙️ Back-end (Python)
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
@@ -55,7 +54,7 @@ Com maturidade, transformei essa curiosidade em um caminho **ético e profission
 
 ---
 
-## 🤖 **Automações / Scraping**
+## 🤖 Automações / Scraping
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/beautifulsoup/beautifulsoup-original.svg"/>
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scrapy/scrapy-original.svg"/>
@@ -63,7 +62,7 @@ Com maturidade, transformei essa curiosidade em um caminho **ético e profission
 
 ---
 
-## 🗄️ **Bancos de Dados**
+## 🗄️ Bancos de Dados
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
@@ -72,24 +71,21 @@ Com maturidade, transformei essa curiosidade em um caminho **ético e profission
 
 ---
 
-## 🐳 **DevOps / Deploy**
+## 🐳 DevOps / Deploy
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg"/>
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/>
-<img width="60" src="https://avatars.githubusercontent.com/u/85044851?s=200&v=4"/> <!-- Railway -->
-<img width="60" src="https://avatars.githubusercontent.com/u/116286561?s=200&v=4"/> <!-- Render -->
 
 ---
 
-## 🌐 **APIs e Ferramentas**
+## 🌐 APIs e Ferramentas
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
-<img width="60" src="https://raw.githubusercontent.com/getinsomnia/insomnia/master/packages/insomnia/src/assets/icon.png"/>
-<img width="60" src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-x1nnh4s2.png"/>
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"/>
 
 ---
 
-## 🛠️ **Outras ferramentas**
+## 🛠️ Outras ferramentas
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
@@ -99,19 +95,6 @@ Com maturidade, transformei essa curiosidade em um caminho **ético e profission
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"/>
 
 </div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OliMatheuss&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliMatheuss&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
 
 ## 🌐 Onde me encontrar
 
