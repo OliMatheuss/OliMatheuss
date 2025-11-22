@@ -5,18 +5,18 @@
 </p>
 
 ---
-
 ## 🌱 Sobre mim
+Iniciei meus estudos em tecnologia aos 13 anos criando pequenos scripts em Lua.  
+Hoje sigo focado em desenvolvimento web e backend, buscando sempre aprender boas práticas e criar soluções eficientes.
 
-Comecei minha jornada na tecnologia cedo: aos **13 anos**, criando scripts em *Lua* para o jogo Tibia.  
-Essa curiosidade me levou a explorar automações, segurança e até conceitos como keyloggers e engenharia social — sem entender totalmente os riscos na época.
+## 📘 Atualmente estudando
+- Python  
+- JavaScript  
+- HTML & CSS  
+- SQL
 
-Com maturidade, transformei essa curiosidade em um caminho **ético e profissional**, hoje focado em desenvolvimento web, backend, automações e segurança da informação.
-
-- 📚 Atualmente estudando: **Python**, **JavaScript**, **Java**, **React**, **Flask**, **SQL**, **HTML**, **CSS**, **Bootstrap**, **TypeScript**, **PHP** e muito mais!
-- 🎯 Objetivo: Me tornar um desenvolvedor completo e criar projetos incríveis  
-- ⚡ Curiosidade: Sempre gostei de desmontar e entender como tudo funciona — desde os 13 anos  
-
+## 🎯 Objetivo
+Evoluir como desenvolvedor e construir projetos sólidos, funcionais e escaláveis.
 ---
 
 # 🛠️ Tecnologias
