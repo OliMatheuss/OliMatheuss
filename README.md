@@ -123,9 +123,11 @@ I enjoy understanding how systems work internally and continuously strengthening
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OliMatheuss&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OliMatheuss&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OliMatheuss&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliMatheuss&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ## 🌐 Connect with Me
