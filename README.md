@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Matheus
 
 🚀 **Python Backend Developer in Training**  
-💻 Focused on building **scalable, clean and production-ready applications**
+💻 Focused on building **scalable, clean, and production-ready applications**
 
 </div>
 
@@ -12,9 +12,9 @@
 ## 🧠 About Me
 I started my programming journey at the age of **13**, creating small scripts in **Lua**, which sparked my interest in logic, automation, and problem-solving.
 
-Today, I focus primarily on **Python backend development**, combining modern web technologies with solid software engineering principles such as **clean code, scalability, and maintainability**.
+Today, I focus primarily on **Python backend development**, combining modern web technologies with solid software engineering principles such as **clean code, scalability, maintainability, and performance**.
 
-I enjoy understanding how systems work internally and continuously strengthening my technical foundation.
+I enjoy understanding how systems work internally and continuously strengthening my technical foundation through hands-on projects.
 
 ---
 
@@ -62,8 +62,8 @@ I enjoy understanding how systems work internally and continuously strengthening
 
 **Hands-on with:**
 - Dockerfiles & Docker Compose
-- Environment variables & configs
-- AWS basics (EC2, S3, RDS)
+- Environment variables & configurations
+- AWS fundamentals (EC2, S3, RDS)
 - Simple production deployments
 
 ---
@@ -115,9 +115,9 @@ I enjoy understanding how systems work internally and continuously strengthening
 ---
 
 ## 📈 Git & GitHub Analysis
-- Clean commit history
-- Feature-based commits
-- Continuous learning through real projects
+- Clean and consistent commit history
+- Feature-based development workflow
+- Continuous learning through real-world projects
 - Active use of GitHub for version control and collaboration
 
 ---
@@ -128,6 +128,7 @@ I enjoy understanding how systems work internally and continuously strengthening
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliMatheuss&layout=compact&theme=tokyonight" />
 </p>
+
 ---
 
 ## 🌐 Connect with Me
