@@ -131,13 +131,20 @@ I enjoy understanding how systems work internally and continuously strengthening
 
 ---
 
-## 🌐 Connect with Me
+## 📊 GitHub Stats
+
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OliMatheuss)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-araujo-34b713204/)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=OliMatheuss&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliMatheuss&layout=compact&theme=tokyonight&hide_border=true"
+/>
 
 </div>
+
 
 ---
 
