@@ -115,7 +115,8 @@ I enjoy understanding how systems work internally and continuously strengthening
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=OliMatheuss" />
+<img src="https://github-readme-stats.vercel.app/api?username=OliMatheuss&show_icons=true&theme=tokyonight" />
+
 
 
 
