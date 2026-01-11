@@ -71,8 +71,23 @@ I enjoy understanding how systems work end to end — from HTTP requests and dat
 
 ---
 
+## 🧪 API & Development Tools
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Usage:**
+- API testing & debugging
+- Request collections & environments
+- Backend–frontend integration testing
+
+---
+
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=OliMatheuss&show_icons=true&theme=tokyonight" />
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=OliMatheuss&show_icons=true&theme=tokyonight&hide_border=true"
+/>
 
 ---
 
