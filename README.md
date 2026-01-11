@@ -85,9 +85,7 @@ I enjoy understanding how systems work end to end — from HTTP requests and dat
 
 ## 📊 GitHub Stats
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=OliMatheuss&show_icons=true&theme=tokyonight&hide_border=true"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=OliMatheuss&show_icons=true" />
 
 ---
 
