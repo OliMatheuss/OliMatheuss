@@ -83,17 +83,6 @@ I enjoy understanding how systems work end to end — from HTTP requests and dat
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=OliMatheuss"
-    alt="GitHub Stats"
-  />
-</p>
-
----
-
 <div align="center">
 
 💬 Always open to talk about **fullstack development, backend engineering, and technology**.  
